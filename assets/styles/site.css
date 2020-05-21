@@ -317,31 +317,15 @@ a {
 }
 
 .icon.weibo:after {
-    content: "Weibo: viggoz"
+    content: "Weibo: geekera"
 }
 
-.icon.instagram {
-    background-image: url(../images/icon-instagram.png)
+.icon.qq {
+    background-image: url(../images/icon-qq.png)
 }
 
-.icon.instagram:after {
-    content: "Instagram: @viggozw"
-}
-
-.icon.behance {
-    background-image: url(../images/icon-behance.png)
-}
-
-.icon.behance:after {
-    content: "Behance: @viggoz"
-}
-
-.icon.twitter {
-    background-image: url(../images/icon-twitter.png)
-}
-
-.icon.twitter:after {
-    content: "Twitter: @viggo_z"
+.icon.qq:after {
+    content: "QQ: 59210983"
 }
 
 .icon.github {
@@ -349,31 +333,15 @@ a {
 }
 
 .icon.github:after {
-    content: "github: @viggoz"
+    content: "github: @fuzui"
 }
 
-.icon.px {
-    background-image: url(../images/icon-px.png)
+.icon.gitee {
+    background-image: url(../images/icon-gitee.png)
 }
 
-.icon.px:after {
-    content: "500px: @viggoz"
-}
-
-.icon.uicn {
-    background-image: url(../images/icon-uicn.png)
-}
-
-.icon.uicn:after {
-    content: "UI.cn: @viggoz"
-}
-
-.icon.dribbble {
-    background-image: url(../images/icon-dribbble.png)
-}
-
-.icon.dribbble:after {
-    content: "Dribbble: @viggoz"
+.icon.gitee:after {
+    content: "gitee: @fuzui"
 }
 
 body {
@@ -421,7 +389,7 @@ body {
 #about {
     width: 40%;
     position: absolute;
-    top: 40%;
+    top: 35%;
     left: 10%;
     z-index: 20;
     transform: translate(0, -50%);
@@ -454,7 +422,7 @@ body {
     #about {
         width: 100%;
         left: 0px;
-        height: 100%;
+        height: 115%;
         background-color: rgba(255, 255, 255, 0.85);
     }
     #about h1 {
@@ -499,13 +467,14 @@ body {
 }
 
 #profile {
-    background-image: url(../images/profile.jpg);
+    background-image: url(../images/profile.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 70%;
+    width: 60%;
     height: 100%;
     position: absolute;
+    
     top: 0;
     right: 0;
     z-index: 10
