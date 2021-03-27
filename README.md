@@ -28,7 +28,10 @@
 **Contact:**
 
 <p>
-<a title="Github" href="https://github.com/fuzui" target="_blank"><img height="30" src="https://oss.fuzui.net/img/github.png" target="_blank"></a>&nbsp;&nbsp;
-<a title="Gitee" href="https://gitee.com/fuzui" target="_blank"><img height="30" src="https://oss.fuzui.net/img/logo_themecolor.png"></a>&nbsp;&nbsp;
-<a title="Email" href="mailto:73400@163.com" target="_blank"><img height="30" src="https://oss.fuzui.net/img/email5.png"></a>&nbsp;&nbsp;
+<a title="Github" href="https://github.com/fuzui" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/github.svg" target="_blank"></a>&nbsp;&nbsp;
+<a title="Gitee" href="https://gitee.com/fuzui" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/gitee.svg"></a>&nbsp;&nbsp;
+<a title="Email:444988@gmail.com" href="mailto:444988@gmail.com" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/mail.svg"></a>&nbsp;&nbsp;
+<a title="Wechat:59210983" href="https://cdn.fuzui.net/qrcode/wx.png" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/weixin.svg"></a>&nbsp;&nbsp;
+<a title="Qq:59210983" href="http://wpa.qq.com/msgrd?v=3&uin=59210983&site=qq&menu=yes" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/qq.svg"></a>&nbsp;&nbsp;
 </p>
+

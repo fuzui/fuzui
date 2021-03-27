@@ -313,7 +313,7 @@ a {
 }
 
 .icon.weibo {
-    background-image: url(../images/icon-weibo.png)
+    background-image: url(https://cdn.fuzui.net/icon/weibo.svg)
 }
 
 .icon.weibo:after {
@@ -321,7 +321,7 @@ a {
 }
 
 .icon.qq {
-    background-image: url(../images/icon-qq.png)
+    background-image: url(https://cdn.fuzui.net/icon/qq.svg)
 }
 
 .icon.qq:after {
@@ -329,7 +329,7 @@ a {
 }
 
 .icon.github {
-    background-image: url(../images/icon-github.png)
+    background-image: url(https://cdn.fuzui.net/icon/github.svg)
 }
 
 .icon.github:after {
@@ -337,7 +337,7 @@ a {
 }
 
 .icon.gitee {
-    background-image: url(../images/icon-gitee.png)
+    background-image: url(https://cdn.fuzui.net/icon/gitee.svg)
 }
 
 .icon.gitee:after {
